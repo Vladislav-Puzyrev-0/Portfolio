@@ -1,5 +1,5 @@
 # Исследования рынка общепита в Москве для принятия решения об открытии нового заведения
-[ipynb](https://github.com/Vladislav-Puzyrev-0/Analyze-catering/blob/main/Исследования%20рынка%20общепита%20в%20Москве%20для%20принятия%20решения%20об.ipynb) 
+[ipynb]([https://github.com/Vladislav-Puzyrev-0/Analyze-catering/blob/main/Исследования%20рынка%20общепита%20в%20Москве%20для%20принятия%20решения%20об.ipynb](https://github.com/Vladislav-Puzyrev-0/Portfolio/blob/main/Project_1/Исследования%20рынка%20общепита%20в%20Москве%20для%20принятия%20решения%20об.ipynb)) 
 
 [Если на гитхабе не открылся](https://colab.research.google.com/drive/1RsCP06NzX_VxD9bK86NgsTmKBHBDHQuJ?usp=sharing)
 
